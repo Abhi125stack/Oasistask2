@@ -1,6 +1,5 @@
 # Protfolio-Using-HTML-CSS
 
-# Personal Portfolio
 Welcome to my personal portfolio repository! This portfolio showcases my skills, projects, and experiences as a web developer. Built with HTML and CSS, it features a sleek and modern design with small animations to create an attractive and engaging user experience.
 
 # Features
